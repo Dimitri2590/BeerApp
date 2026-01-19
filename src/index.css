@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom, #f4e4bc, #d4af37); /* Beer-like gradient */
+  min-height: 100vh;
 }
 
 code {
